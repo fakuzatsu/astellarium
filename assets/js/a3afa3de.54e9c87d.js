@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkastellarium=self.webpackChunkastellarium||[]).push([[8111],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

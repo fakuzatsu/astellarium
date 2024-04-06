@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkastellarium=self.webpackChunkastellarium||[]).push([[339],{8061:e=>{e.exports=JSON.parse('{"permalink":"/astellarium/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
