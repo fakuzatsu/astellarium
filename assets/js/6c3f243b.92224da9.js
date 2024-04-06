@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkastellarium=self.webpackChunkastellarium||[]).push([[6432],{5433:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/astellarium/blog/tags/hola","allTagsPath":"/astellarium/blog/tags","count":1,"unlisted":false}')}}]);

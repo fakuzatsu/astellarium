@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkastellarium=self.webpackChunkastellarium||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/astellarium/blog","blogTitle":"Blog"}')}}]);

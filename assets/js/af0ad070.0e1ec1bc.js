@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkastellarium=self.webpackChunkastellarium||[]).push([[9390],{1417:a=>{a.exports=JSON.parse('{"permalink":"/astellarium/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
