@@ -15,12 +15,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Production url of site.
-  url: 'https://fakuzatsu.github.io',
-  baseUrl: '/astellarium/',
+  url: 'https://astellarium.com',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'fakuzatsu',
-  projectName: 'Astellarium',
+  projectName: 'astellarium',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
