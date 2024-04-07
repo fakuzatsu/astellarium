@@ -38,9 +38,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -66,7 +63,10 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Updates', position: 'left'},
+          {
+            href: 'https://github.com/fakuzatsu/astellarium', 
+            label: 'Tumblr', 
+            position: 'left'},
           {
             href: 'https://github.com/fakuzatsu/astellarium',
             label: 'GitHub',
@@ -99,8 +99,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Tumblr',
+                href: 'https://github.com/fakuzatsu/astellarium',
               },
             ],
           },
